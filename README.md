@@ -1,7 +1,7 @@
 # PyProjects
 A few projects written in Python that I worked on in my free time. The ideas are not original, but the code is.
 
-Dictionary.rtf is Norvig's dictionary (which to me seems like a list of non-words but it was the file suggested in the project description on practicepython.com).
+Dictionary.rtf is Norvig's dictionary - http://norvig.com/ngrams/sowpods.txt (which to me seems like a list of non-words but it was the file suggested in the project description on practicepython.com).
 So that isn't my work but the Hangman code is. 
 
 Mastermind and Cows and Bulls are very similar (pretty much the same).
